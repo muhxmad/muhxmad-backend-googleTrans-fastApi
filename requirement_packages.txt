@@ -1,0 +1,5 @@
+pip install fastapi
+pip install jinja2
+pip install googletrans==3.1.0a0
+pip install uvicorn
+pip install python-multipart << baseModel
